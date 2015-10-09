@@ -1,0 +1,520 @@
+.version.index /* version checker */
+{
+	color: #0000F0;
+	background-color: #1421CF;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u75
+{
+	z-index: 2;
+	min-height: 2070px;
+	background: -webkit-gradient(linear, left center, right center, from(#000000),color-stop(100%, #FFFFFF));
+	background: -webkit-linear-gradient(left,#000000 ,#FFFFFF 100%);
+	background: linear-gradient(to right,#000000 ,#FFFFFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF000000, endColorstr=#FFFFFFFF, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF000000', endColorstr='#FFFFFFFF', GradientType=1)";
+	background-size: 100% auto;
+}
+
+#u75_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+	padding-top: 504px;
+	padding-bottom: 32px;
+}
+
+#pbuttonu237
+{
+	width: 0.01px;
+	left: 344px;
+	position: relative;
+}
+
+#buttonu237
+{
+	z-index: 75;
+	width: 473px;
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu237.ButtonSelected
+{
+	width: 473px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u241
+{
+	z-index: 76;
+	width: 473px;
+	padding-bottom: 44px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/livohub-slider.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#buttonu237.ButtonSelected #u241
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 473px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background-size: contain;
+}
+
+#u242-6
+{
+	z-index: 77;
+	width: 435px;
+	min-height: 197px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 18px;
+}
+
+#buttonu237:hover #u242-6
+{
+	background-color: #55003C;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 197px;
+	width: 435px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu237.ButtonSelected #u242-6
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 197px;
+	width: 435px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu237:hover #u242-6 p,#buttonu237:hover #u242-6 span
+{
+	padding-top: 11px;
+}
+
+#buttonu237.ButtonSelected #u242-6 p,#buttonu237.ButtonSelected #u242-6 span
+{
+	padding-top: 0px;
+}
+
+#u244-4
+{
+	z-index: 83;
+	width: 435px;
+	min-height: 53px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u97
+{
+	z-index: 8;
+	width: 50px;
+	min-height: 50px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 155px;
+	left: 603px;
+}
+
+#u86
+{
+	z-index: 3;
+	width: 473px;
+	padding-bottom: 47px;
+	left: 344px;
+	margin-top: 30px;
+	position: relative;
+	background: transparent url("../images/unihub-slider.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u94
+{
+	z-index: 6;
+	width: 437px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 18px;
+}
+
+#u120-6
+{
+	z-index: 9;
+	width: 435px;
+	min-height: 197px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	text-align: center;
+	margin-bottom: -5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: -3px;
+}
+
+#u120-6:hover
+{
+	background-color: #55003C;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 197px;
+	width: 435px;
+	margin: 1px -10000px -5px 0px;
+}
+
+#u122-4
+{
+	z-index: 15;
+	width: 442px;
+	min-height: 53px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u122-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 53px;
+	width: 442px;
+	margin: 0px;
+}
+
+#u87
+{
+	z-index: 4;
+	width: 473px;
+	padding-bottom: 47px;
+	left: 344px;
+	margin-top: 66px;
+	position: relative;
+	background: transparent url("../images/dynahub-slider.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u95
+{
+	z-index: 7;
+	width: 437px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 18px;
+}
+
+#u94:hover,#u95:hover
+{
+	background-color: #57001D;
+	width: 437px;
+	min-height: 0px;
+	margin: 15px -10000px 0px 0px;
+}
+
+#u123-6
+{
+	z-index: 20;
+	width: 435px;
+	min-height: 197px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	text-align: center;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -2px;
+}
+
+#u123-6:hover
+{
+	background-color: #55003C;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 197px;
+	width: 435px;
+	margin: -1px -10000px -3px 0px;
+}
+
+#u125-4
+{
+	z-index: 26;
+	width: 435px;
+	min-height: 53px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u88
+{
+	z-index: 5;
+	width: 473px;
+	padding-bottom: 43px;
+	left: 344px;
+	margin-top: 66px;
+	position: relative;
+	background: transparent url("../images/synehub-slider.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u126-6
+{
+	z-index: 31;
+	width: 437px;
+	min-height: 197px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 15px;
+}
+
+#u126-6:hover
+{
+	background-color: #55003C;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 197px;
+	width: 437px;
+	margin: 15px -10000px 0px 0px;
+}
+
+#u120-6:hover p,#u120-6:hover span,#u123-6:hover p,#u123-6:hover span,#u126-6:hover p,#u126-6:hover span
+{
+	padding-top: 11px;
+}
+
+#u242,#u120,#u123,#u126
+{
+	font-size: 1px;
+	line-height: 0px;
+}
+
+#u243,#u121,#u124,#u127
+{
+	margin-top: 32px;
+	margin-bottom: -32px;
+}
+
+#u128-4
+{
+	z-index: 37;
+	width: 435px;
+	min-height: 53px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u244-4:hover,#u125-4:hover,#u128-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 53px;
+	width: 435px;
+	margin: 0px;
+}
+
+#u244-4:hover p,#u244-4:hover span,#u122-4:hover p,#u122-4:hover span,#u125-4:hover p,#u125-4:hover span,#u128-4:hover p,#u128-4:hover span
+{
+	color: #D9E021;
+	visibility: inherit;
+}
+
+#u207-13
+{
+	z-index: 42;
+	width: 960px;
+	min-height: 177px;
+	background-color: #450023;
+	color: #C7B299;
+	left: 100px;
+	margin-top: 175px;
+	position: relative;
+}
+
+#u207,#u207-2,#u207-4,#u207-5,#u207-7,#u207-8,#u207-10
+{
+	text-align: center;
+}
+
+#u75-bw
+{
+	z-index: 2;
+	min-height: 2070px;
+	margin-top: -326px;
+}
+
+#u208-9
+{
+	z-index: 55;
+	min-height: 168px;
+	-pie-box-shadow: 0px 0px 8px 2px #B296C8;
+	box-shadow: 0px 0px 8px rgba(102,45,145,0.5),0px 0px 8px rgba(102,45,145,0.5);
+	background: -webkit-gradient(linear, left center, right center, from(#000000),color-stop(100%, #4A0036));
+	background: -webkit-linear-gradient(left,#000000 ,#4A0036 100%);
+	background: linear-gradient(to right,#000000 ,#4A0036 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF000000, endColorstr=#FF4A0036, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF000000', endColorstr='#FF4A0036', GradientType=1)";
+	text-align: left;
+	position: fixed;
+	top: -1px;
+	background-size: 100% auto;
+}
+
+#u208-6
+{
+	padding-top: 2px;
+}
+
+#u227
+{
+	margin-top: 19px;
+	margin-bottom: -19px;
+}
+
+#u221
+{
+	z-index: 61;
+	width: 121px;
+	background-color: transparent;
+}
+
+#u221_img
+{
+	vertical-align: bottom;
+}
+
+#u230
+{
+	margin-top: 15px;
+	margin-bottom: -15px;
+}
+
+#u229-7
+{
+	z-index: 66;
+	width: 382px;
+	min-height: 46px;
+	background-color: transparent;
+	text-align: left;
+	color: #FFFFFF;
+}
+
+#u229-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u229
+{
+	line-height: 17px;
+}
+
+#u229-2
+{
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u208-7
+{
+	padding-top: 5px;
+}
+
+#u208-9-bw
+{
+	z-index: 55;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 110px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
